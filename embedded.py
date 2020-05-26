@@ -10,6 +10,12 @@ def shai():
     print("shai")
 
 
+def testing():
+    shai()
+
+
+
 super_user()
 test2()
 shai()
+testing()
